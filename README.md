@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolas, I'm studying IT & Systems @ Haute Ecole en Hainaut.
-- 👀 I’m interested in cloud technologies, software development, and video games
+- 👀 I’m interested in cloud technologies, software development, and video games.
 - 🌱 I’m currently learning web development, C#, and Data Structures and Algorithms.
 
 <!---
