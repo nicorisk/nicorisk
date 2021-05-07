@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicolas, I'm studying IT & Systems @ Haute Ecole en Hainaut.
 - 👀 I’m interested in cloud technologies, software development, and video games.
-- 🌱 I’m currently learning web development, C#, and Data Structures and Algorithms.
+- 🌱 I’m currently learning Web development, C#, Data Structures and Algorithms.
 
 <!---
 nicorisk/nicorisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
